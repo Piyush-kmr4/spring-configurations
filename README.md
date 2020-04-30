@@ -1,3 +1,3 @@
 # spring-configurations
-This repository contains example of XML Based Config
+This repository contains example of @Annotation Based Config
 
